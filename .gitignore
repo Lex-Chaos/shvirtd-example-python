@@ -1,0 +1,6 @@
+*
+!.dockerignore
+!.gitignore
+!Dockerfile.python
+!compose.yaml
+!startscript
