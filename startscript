@@ -1,4 +1,4 @@
 #!/bin/bash
 git clone https://github.com/Lex-Chaos/shvirtd-example-python.git ./opt
-cd /opt
+cd opt
 docker compose up
